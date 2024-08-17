@@ -1,0 +1,24 @@
+* {
+    background-color : #040473;
+}
+h1 {
+    color : pink;
+}
+h2 {
+    color : white;
+}
+h6 {
+    color: lavender;
+}
+#a1 {
+    color : grey;
+}
+#a2{
+    color : rgb(255, 59, 59);
+}
+#a3{
+    color : black;
+}
+p {
+    color : rgb(255, 255, 0);
+}
